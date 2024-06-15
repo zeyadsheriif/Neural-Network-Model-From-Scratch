@@ -2,7 +2,7 @@
 
 Neural Network Machine Learning Model Implemented from scratch
 
-Overview:
+Overview: 
 A project that shows how to build a neural network from basic principles only using the libraries numpy and pandas. The purpose is to create an internal understanding of these kinds of networks by making one ourselves without relying on high-level machine learning frameworks. 
 
 Objective of the project:
